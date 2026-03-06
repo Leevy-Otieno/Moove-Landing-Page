@@ -1009,5 +1009,6 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 <a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
 <img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
 </a>
-#   M o o v e - L a n d i n g - P a g e  
+#   M o o v e - L a n d i n g - P a g e 
+ 
  
